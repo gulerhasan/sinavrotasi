@@ -1,0 +1,18 @@
+# Xcode
+.DS_Store
+*.xcuserstate
+xcuserdata/
+DerivedData/
+.idea/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Xcode Archive
+*.xcarchive
+
+# Xcode iOS Simulator
+*.app
+*.ipa
+*.dSYM
